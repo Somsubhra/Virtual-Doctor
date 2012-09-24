@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+ body {
+    background:		#BCD2EE;
+    color: #111111;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    padding: 20px;
+    }
+	
+	p{
+    background: #A4D3EE;
+    background: rgba(255,255,255,.3);
+    border-color:	#B0E2FF;
+    border-color: rgba(255,255,255,.6);
+    border-style: solid;
+    border-width: 2px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    border-radius: 5px;
+    line-height: 30px;
+    list-style: none;
+    padding: 5px 10px;
+    margin-bottom: 2px;
+	font-size:14px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-weight:normal;
+
+	
+	}
+	
+	h1{
+	
+	color:#27408B;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:24px;
+	}
+	
+	h2{
+	color:#27408B;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:18px;
+	}
+	
+	#header{
+	font-size:12px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	}
+	
+	
+	h4{
+	color:#27408B;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	font-size:14px;
+	}
